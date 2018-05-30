@@ -19,4 +19,4 @@ Submission from <b>Star Azure<b> for <b>Caliber Hackathon 2018<b>
 ### Azure Function 
 * C#
 
-[[https://github.com/sudeephazra/JalSutra/blob/master/Jal%20Sutra%20-%20Architecture%20Diagram.png]]
+<img src="https://github.com/sudeephazra/JalSutra/blob/master/Jal%20Sutra%20-%20Architecture%20Diagram.png" alt="Architecture Diagram">
