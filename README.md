@@ -1,5 +1,5 @@
 # JalSutra
-Submission from <b>Star Azure<b> for <b>Caliber Hackathon 2018<b>
+A fully managed, cloud based, server-less, and smart irrigation system
 
 ## Code on Device
 ### Device
